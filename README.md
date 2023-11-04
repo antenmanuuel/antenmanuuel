@@ -27,8 +27,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=antenmanuuel&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&langs_count=8&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact&theme=algolia)]
 
 
 
