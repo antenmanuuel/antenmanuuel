@@ -27,7 +27,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=antenmanuuel)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact&theme=algolia)](https://github.com/antenmanuuel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact)
 
 
 
