@@ -6,7 +6,7 @@
 
 ----
 
-![anten’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel&show_icons=true&theme=dracula)
+![anten’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel&show_icons=true&theme=dark)
 
 
 
