@@ -18,4 +18,24 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=antenmanuuel&theme=dark)](https://git.io/streak-stats)
 
 
+### A little more about me...  
 
+```javascript
+const anten = {
+    code: ["Python", "Java", "HTML", "CSS","Javascript", "Typescript", "SQL"],
+    technologies: {
+        frontend:{["React"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        API: {
+            js: ["REST"],
+        },
+        devOps: ["AWS"],
+        databases: ["MongoDB", "MySQL", "PostgresSQL", ]
+
+    }
+    
+};
+```
