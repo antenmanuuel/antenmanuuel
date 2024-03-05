@@ -6,8 +6,7 @@
 
 ----
 
-![eduardoloz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel_icons=true&theme=dark)
-
+![anten’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel&show_icons=true&theme=dracula)
 
 
 
