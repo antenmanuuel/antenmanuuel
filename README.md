@@ -6,6 +6,11 @@
 
 ----
 
+![Linkedin: anten](https://img.shields.io/badge/-anten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anten-manuuel-078829208/)](https://www.linkedin.com/in/anten-manuuel-078829208/)
+
+[![GitHub Anten](https://img.shields.io/github/followers/antenmanuuel?label=follow&style=social)](https://github.com/antenmanuuel)
+
+
 ![anten’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact)
