@@ -10,8 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact)
 
-https://streak-stats.demolab.com/?user=antenmanuuel&theme=dark)](https://git.io/streak-stats
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=antenmanuuel&theme=dark)](https://git.io/streak-stats)
 
 
 
