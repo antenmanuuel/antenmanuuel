@@ -8,6 +8,7 @@
 
 ![anten’s GitHub stats](https://github-readme-stats.vercel.app/api?username=antenmanuuel&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenmanuuel&layout=compact)
 
 
 
