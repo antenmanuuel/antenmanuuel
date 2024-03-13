@@ -22,20 +22,9 @@
 
 ```javascript
 const anten = {
-    code: ["Python", "Java", "HTML", "CSS","Javascript", "Typescript", "SQL"],
-    technologies: {
-        frontend:{["React"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        API: {
-            js: ["REST"],
-        },
-        Cloud: ["AWS"],
-        databases: ["MongoDB", "MySQL", "PostgresSQL", ]
-
-    }
-    
+    languages: ["Python", "Java", "HTML", "CSS","JavaScript", "TypeScript", "SQL", "Bash"],
+    frameworksAndLibraries: ["Node.js", "Next.js", "Express.js", "Rest API", "AGILE", "Tailwind CSS", "Material UI", "Chakra UI", "Prisma", "Socket.IO"],
+    toolsAndTechnologies: ["Git, "AWS", "Docker", "Figma", "Postman", "Vercel"],
+    database: ["MySQL", "MongoDB", "NoSQL", "Firebase", "PostgresSQL"]
 };
 ```
