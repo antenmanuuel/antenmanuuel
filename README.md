@@ -32,7 +32,7 @@ const anten = {
         API: {
             js: ["REST"],
         },
-        devOps: ["AWS"],
+        Cloud: ["AWS"],
         databases: ["MongoDB", "MySQL", "PostgresSQL", ]
 
     }
