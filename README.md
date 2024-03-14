@@ -22,8 +22,8 @@
 
 ```javascript
 const anten = {
-    languages: ["Python", "Java", "HTML", "CSS","JavaScript", "TypeScript", "SQL", "Bash"],
-    frameworksAndLibraries: ["Node.js", "Next.js", "Express.js", "Rest API", "AGILE", "Tailwind CSS", "Material UI", "Chakra UI", "Prisma", "Socket.IO"],
+    languages: ["Python", "Java", "HTML", "CSS","JavaScript","SQL"],
+    frameworksAndLibraries: ["React", "Node.js", "Next", "Express", "Rest API", "AGILE","Prisma", "Socket.IO"],
     toolsAndTechnologies: ["Git, "AWS", "Docker", "Figma", "Postman", "Vercel"],
     database: ["MySQL", "MongoDB", "NoSQL", "Firebase", "PostgresSQL"]
 };
