@@ -18,13 +18,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=antenmanuuel&theme=dark)](https://git.io/streak-stats)
 
 
-### A little more about me...  
-
-```javascript
-const anten = {
-    languages: ["Python", "Java", "HTML/"CSS","JavaScript","SQL", "Bash"],
-    frameworksAndLibraries: ["React.js","Redux","Node.js", "Express", "Rest API", "AGILE", "Bootstrap", "Material UI", "Chakra UI", "Tailwind CSS", "HTML5", "CSS3"],
-    toolsAndTechnologies: ["Git, "AWS - EC2", "Lambda", "Amazon S3", "IAM", "Route 53", "Docker", "Figma", "Postman", "Firebase", "Heroku", "Netlify", "Digital Ocean"],
-    database: ["MySQL", "MongoDB", "NoSQL", "PostgresSQL"]
-};
-```
